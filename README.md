@@ -1,6 +1,6 @@
 # Quantum Entanglement Field Portfolio
 
-![Preview](https://via.placeholder.com/800x400.png?text=3D+Portfolio+Preview)
+
 
 A cutting-edge 3D interactive portfolio featuring:
 - Dynamic particle systems
@@ -37,5 +37,3 @@ A cutting-edge 3D interactive portfolio featuring:
 ## 🌐 Live Demo
 [View Portfolio](https://your-portfolio-domain.com)
 
-## 📝 License
-MIT Licensed - See [LICENSE](LICENSE) for details
