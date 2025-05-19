@@ -35,5 +35,5 @@ A cutting-edge 3D interactive portfolio featuring:
 | Tailwind CSS | 3.x     | Utility-first CSS        |
 
 ## 🌐 Live Demo
-[View Portfolio](https://your-portfolio-domain.com)
+[View Portfolio](https://sandipan2005.github.io/Quantum-Codex---Portfollio/))
 
